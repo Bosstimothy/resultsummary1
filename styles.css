@@ -1,0 +1,162 @@
+body{
+    text-align: center;
+    margin: 0;
+    font-family: 'Hanken Grotesk';
+    
+}
+p{
+    display: inline-block; 
+    color: white;
+}
+
+span{
+    margin-top: 2px;
+}
+.two {
+    display: inline-block;
+    position: absolute;
+    right: 110px;
+    background-color: rgba(255, 189, 89, 0.97);
+    height: 300px;
+    width: 190px;
+    border-radius: 10%;
+
+}
+
+.circular{
+    background-color: #DD58D6;
+    border-radius: 100%;
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    margin-top: 20px;
+        
+}
+.score{
+    font-size: xx-large;
+    margin-top: 5px;
+    margin-bottom: 0;
+    font-weight: bolder;
+    font-size: larger;
+}
+.one {
+    display: inline-block;
+    position: absolute;
+    left: 110px;
+    background-color: #9336B4;
+    height: 300px;
+    width: 190px;
+    border-radius: 10%;
+}
+
+#parent {
+    height: 300px;
+    width: 600px;
+    position: relative;
+    display: inline-block;
+    margin-top: 50px;
+}
+
+#Reaction{ 
+    background-color:#FFEADD;
+    border-radius: 20px;
+    display: inline-block;
+    width: 150px;
+    height: 25px;
+}
+   
+#p1{
+    color: #FF9B9B;
+    margin-top: 4px;
+    }
+
+#Memory{
+    background-color: #FFFEC4;
+    border-radius: 20px;
+    display: inline-block;
+    width: 150px;
+    height: 25px;
+    margin-top: 20px;
+}
+
+#p2 {
+    color: #FFC95F;
+    margin-top: 4px;
+}
+
+
+#Verbal{
+    background-color: #CEEDC7;
+    border-radius: 20px;
+    display: inline-block;
+    width: 150px;
+    height: 25px;
+    margin-top: 20px;
+}
+
+#p3 {
+    color: #86C8BC;
+    margin-top: 4px;
+    margin-right: 10px;
+}
+
+#Visual{
+    background-color: #EEEEEE;
+    border-radius: 20px;
+    display: inline-block;
+    width: 150px;
+    height: 25px;
+    margin-top: 20px;
+}
+
+#p4 {
+    color: #4A55A2;
+    margin-top: 4px;
+    margin-right: 10px;
+}
+
+#Continue{
+    background-color: #0E2954;
+    border-radius: 20px;
+    width: 100px;
+    height: 30px;
+    display: inline-block;
+    padding-bottom: 2px;
+    margin-top: 20px;
+}
+
+#p5 {
+   color: white;
+   margin-top: 6px; 
+}
+
+#bold1{
+    margin-top: 25px;
+    margin-bottom: 0px;
+}
+
+#bold2{
+    margin-right: 40%;
+    color: #4A55A2;
+}
+
+#score1{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+img{
+    display: inline-block;
+    height: 18px;
+    width: 18px;
+    margin-top: 2px; 
+}
+
+
+span{
+    color: black;
+}
+
+.bold{
+    font-weight: bold;
+}
